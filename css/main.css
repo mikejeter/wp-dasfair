@@ -4,6 +4,20 @@ header {
     height:100px;
 }
 
+header .top-bar {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    display:flex;
+}
+
+header .top-bar li a {
+    padding: .25rem 1rem;
+    color:white;
+}
+
 .page-wrap {
     padding:2rem 0;
 }
+
+
