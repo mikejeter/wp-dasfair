@@ -59,6 +59,13 @@ header .top-bar .menu-item-has-children:hover .sub-menu {
 header .top-bar li .sub-menu a {
     color:#111;
     padding: 0.24rem;
+    display:block;
+    text-align:center;
+    text-decoration:none;
+}
+
+header .top-bar li .sub-menu a:hover {
+    color:red;
 }
 
 
